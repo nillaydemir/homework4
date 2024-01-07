@@ -66,3 +66,95 @@ GD)
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+QJ)
+$ git log origin/feature-2
+commit ac3dc12add8eabe6fa5004af2b6fde789f56d1b8 (origin/feature-2)
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 18:02:59 2024 +0300
+
+    satisfying requirement change two
+
+commit 560558d688211599e356efc2bcd1525c86efb110 (HEAD -> feature-2, origin/main, origin/feature-3, origin/HEAD, main)
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:36:43 2024 +0300
+
+    Update homework4.txt
+
+commit 2d48edbc0dfc3cccf16f68fcd5576ba3b4ff5b3f
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:36:17 2024 +0300
+
+    setting up gitignore
+
+commit dea262aa795157c873acd084609bd3f29eb624f0
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:27:01 2024 +0300
+
+    Update homework4.txt
+
+commit 9a909ec5701bb5cb2ef8f30a2e2655ff7b7e2a8a
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:26:39 2024 +0300
+
+    Update README.md
+
+commit 0f7d6623da924de727217f4b4b40fce23fe23a5c
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:16:55 2024 +0300
+
+:...skipping...
+commit ac3dc12add8eabe6fa5004af2b6fde789f56d1b8 (origin/feature-2)
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 18:02:59 2024 +0300
+
+    satisfying requirement change two
+
+commit 560558d688211599e356efc2bcd1525c86efb110 (HEAD -> feature-2, origin/main, origin/feature-3, origin/HEAD, main)
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:36:43 2024 +0300
+
+    Update homework4.txt
+
+commit 2d48edbc0dfc3cccf16f68fcd5576ba3b4ff5b3f
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:36:17 2024 +0300
+
+    setting up gitignore
+
+commit dea262aa795157c873acd084609bd3f29eb624f0
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:27:01 2024 +0300
+
+    Update homework4.txt
+
+commit 9a909ec5701bb5cb2ef8f30a2e2655ff7b7e2a8a
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:26:39 2024 +0300
+
+    Update README.md
+
+commit 0f7d6623da924de727217f4b4b40fce23fe23a5c
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:16:55 2024 +0300
+
+    Update homework4.txt
+
+commit 38a3c01ec752859e8bf238c74617ce6b09120772 (feature-1)
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:08:05 2024 +0300
+
+    Update homework4.txt
+
+commit f33840c105a16f45b4c4054b9b16bd8c7ac82fb1
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:00:20 2024 +0300
+
+    Create homework4.txt
+
+commit b9099784a153eccf41f4c27c86b5a6bf308e821e
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 15:58:29 2024 +0300
+
+    Initial commit
+
