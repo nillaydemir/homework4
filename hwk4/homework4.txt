@@ -26,4 +26,17 @@ user.name=Nil Aydemir
 user.email=nilaydemir2004@gmail.com
 core.editor=Intellij IDEA CE
 
+QB)
+$ git clone https://github.com/nillaydemir/homework4.git
+$ cd homework4
+$ ls -la
+
+drwxr-xr-x 1 90551 197609   0 Jan  7 16:08 ./
+drwxr-xr-x 1 90551 197609   0 Jan  7 16:08 ../
+drwxr-xr-x 1 90551 197609   0 Jan  7 16:08 .git/
+-rw-r--r-- 1 90551 197609 314 Jan  7 16:08 .gitignore
+-rw-r--r-- 1 90551 197609  24 Jan  7 16:08 README.md
+drwxr-xr-x 1 90551 197609   0 Jan  7 16:08 hwk4/
+
+GC)
 
