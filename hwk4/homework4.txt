@@ -66,3 +66,22 @@ GD)
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+QF)
+commit 38a3c01ec752859e8bf238c74617ce6b09120772 (HEAD -> feature-1, origin/main, origin/HEAD, main)
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:08:05 2024 +0300
+
+    Update homework4.txt
+
+commit f33840c105a16f45b4c4054b9b16bd8c7ac82fb1
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 16:00:20 2024 +0300
+
+    Create homework4.txt
+
+commit b9099784a153eccf41f4c27c86b5a6bf308e821e
+Author: nillaydemir <142014145+nillaydemir@users.noreply.github.com>
+Date:   Sun Jan 7 15:58:29 2024 +0300
+
+    Initial commit
