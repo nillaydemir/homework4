@@ -158,3 +158,75 @@ Date:   Sun Jan 7 15:58:29 2024 +0300
 
     Initial commit
 
+QM)
+$ git diff main..feature-1
+diff --git a/.gitignore b/.gitignore
+index fd53d47..524f096 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -22,4 +22,3 @@
+ # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+ hs_err_pid*
+ replay_pid*
+-
+diff --git a/README.md b/README.md
+index 3f1c73d..1f24080 100644
+--- a/README.md
++++ b/README.md
+@@ -1,6 +1,2 @@
+ # homework4
+ homework4
+-*WE ARE TEAM 35*
+-if you want visit web page of The Department of Software Engineering of Işık University --->
+-[Visit The Department of Software Engineering at Işık University](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi)
+-
+diff --git a/hwk4/homework4.txt b/hwk4/homework4.txt
+index a18d87d..16dfc7b 100644
+--- a/hwk4/homework4.txt
++++ b/hwk4/homework4.txt
+@@ -26,43 +26,4 @@ user.name=Nil Aydemir
+ user.email=nilaydemir2004@gmail.com
+ core.editor=Intellij IDEA CE
+
+-QB)
+-$ git clone https://github.com/nillaydemir/homework4.git
+-$ cd homework4
+-$ ls -la
+
+-drwxr-xr-x 1 90551 197609   0 Jan  7 16:08 ./
+-drwxr-xr-x 1 90551 197609   0 Jan  7 16:08 ../
+-drwxr-xr-x 1 90551 197609   0 Jan  7 16:08 .git/
+--rw-r--r-- 1 90551 197609 314 Jan  7 16:08 .gitignore
+--rw-r--r-- 1 90551 197609  24 Jan  7 16:08 README.md
+-drwxr-xr-x 1 90551 197609   0 Jan  7 16:08 hwk4/
+-
+-GC)
+-[Visit The Department of Software Engineering at Işık University](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi)
+-
+-GD)
+-# Compiled class file
+-*.class
+-
+-# Log file
+-*.log
+-
+-# BlueJ files
+-*.ctxt
+-
+-# Mobile Tools for Java (J2ME)
+-.mtj.tmp/
+-
+-# Package Files #
+-*.jar
+-*.war
+-*.nar
+-*.ear
+-*.zip
+-*.tar.gz
+-*.rar
+-
+-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+-hs_err_pid*
+-replay_pid*
+
+
